@@ -2,3 +2,5 @@
 
 
 antyglobalizm vs globalizm
+
+antyglobaliści vs globaliści
