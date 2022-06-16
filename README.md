@@ -1,2 +1,4 @@
-# www
-www.antyglobalizm.pl
+# www.antyglobalizm.pl
+
+
+antyglobalizm vs globalizm
